@@ -10,4 +10,10 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <testSuiteGuid>e8190e73-44f9-428d-8f43-b7e4ced1b391</testSuiteGuid>
+   <testCaseLink>
+      <guid>33342d56-a847-4c0a-b37e-5b8856b83302</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test1</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
